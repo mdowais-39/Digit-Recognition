@@ -50,7 +50,7 @@ A passion for machine learning! 😄
 
 Clone the Repository:
 
-git clone https://github.com/your-username/digit-recognition-object-detection.git
+git clone (https://github.com/mdowais-39/Digit-Recognition)
 
 cd digit-recognition-object-detection
 
