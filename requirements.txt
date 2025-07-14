@@ -1,0 +1,10 @@
+📋 Requirements
+All dependencies are listed in requirements.txt. Key libraries include:
+
+🧠 TensorFlow
+🔢 NumPy
+📊 Matplotlib
+🖼️ Pillow
+📂 TensorFlow Datasets
+
+Run pip install -r requirements.txt to set up your environment.
